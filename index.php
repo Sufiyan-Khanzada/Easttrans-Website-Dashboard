@@ -565,4 +565,6 @@ Your Heart)</b></p>
 
   </main><!-- End #main -->
 
-  
+  <?php
+include 'footer.php';
+?>
