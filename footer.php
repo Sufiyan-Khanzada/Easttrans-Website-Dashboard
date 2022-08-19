@@ -30,11 +30,17 @@
         <div class="col-lg-2 col-6 footer-links">
           <h4>Our Services</h4>
           <ul>
-            <li><a href="#">Web Design</a></li>
-            <li><a href="#">Web Development</a></li>
-            <li><a href="#">Product Management</a></li>
-            <li><a href="#">Marketing</a></li>
-            <li><a href="#">Graphic Design</a></li>
+            <li><a href="#">Pakistan Visa Service</a></li>
+            <li><a href="#">Cheap Flight Tickets</a></li>
+            <li><a href="#">5-Mobile Top up Balance</a></li>
+            <li><a href="#">Internet Date Packages</a></li>
+            <li><a href="#">Utilities Bills (Electric,Water, and Gas)</a></li>
+            <li><a href="#">Goods/Gifts Service</a></li>
+            <li><a href="#">Marriage Book Legalization Service</a></li>
+            <li><a href="#">USD Payments for Visa and other Purposes</a></li>
+            <li><a href="#">Marriage Book Legalization Service</a></li>
+            
+            
           </ul>
         </div>
 
