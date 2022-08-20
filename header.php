@@ -56,7 +56,7 @@
           <li><a href="index.php" class="active">Home</a></li>
           <li><a href="about.php">About</a></li>
           <li><a href="services.php">Services</a></li>
-       <!--   <li><a href="#">Pricing</a></li> -->
+         <li><a href="news_promotions.php">News & Promotions</a></li>
          <!--  <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
