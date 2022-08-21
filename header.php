@@ -58,15 +58,15 @@
           <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
             
-            <li><a href="#">Pakistan Visa Service</a></li>
-            <li><a href="#">Cheap Flight Tickets</a></li>
-            <li><a href="#">5-Mobile Top up Balance</a></li>
-            <li><a href="#">Internet Date Packages</a></li>
-            <li><a href="#">Utilities Bills (Electric,Water, and Gas)</a></li>
-            <li><a href="#">Goods/Gifts Service</a></li>
-            <li><a href="#">Marriage Book Legalization Service</a></li>
-            <li><a href="#">USD Payments for Visa and other Purposes</a></li>
-            <li><a href="#">Marriage Book Legalization Service</a></li>
+            <li><a href="Pakistan-Visa-Service.php">Pakistan Visa Service</a></li>
+            <li><a href="Cheap-Flight-Tickets.php">Cheap Flight Tickets</a></li>
+            <li><a href="5-Mobile-Top-up-Balance.php">5-Mobile Top up Balance</a></li>
+            <li><a href="Internet-Date-Packages.php">Internet Date Packages</a></li>
+            <li><a href="Utilities-Bills-(Electric,Water, and Gas).php">Utilities Bills (Electric,Water, and Gas)</a></li>
+            <li><a href="Goods/Gifts-Service.php">Goods/Gifts Service</a></li>
+            <li><a href="Marriage-Book-Legalization-Service.php">Marriage Book Legalization Service</a></li>
+            <li><a href="USD-Payments-for-Visa-and-other-Purposes.php">USD Payments for Visa and other Purposes</a></li>
+            <li><a href="Marriage-Book-Legalization-Service.php">Marriage Book Legalization Service</a></li>
             
             </ul>
           </li>

@@ -18,7 +18,8 @@ include 'header.php';
       <nav>
         <div class="container">
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li>Services</li>            
             <li>Pakistan Visa Service</li>
           </ol>
         </div>
