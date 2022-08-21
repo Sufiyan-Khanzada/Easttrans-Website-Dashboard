@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
   <meta charset="utf-8">
@@ -29,15 +29,7 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <script type="text/javascript" >
-
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-}
-</script>
-
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
+ 
 
   <!-- =======================================================
   * Template Name: Logis - v1.1.0
@@ -206,15 +198,25 @@ input.check-toggle-round-flat:checked + label:after {
               <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li> -->
+          <script type="text/javascript" >
+
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
           <li><a href="contact.php">Contact</a></li>
           <li><a class="get-a-quote" href="get-a-quote.php">Get a Quote</a></li>
-           
-          <!-- div class="switch">
+          
+         <div class="switch">
       <input id="language-toggle" class="check-toggle check-toggle-round-flat" type="checkbox">
       <label for="language-toggle"></label>
       <span class="on" onclick="Eng();">EN</span>
       <span class="off" onclick="Indonesia();">IN</span>
-    </div> -->
+    </div>
         </ul>
       </nav><!-- .navbar -->
 

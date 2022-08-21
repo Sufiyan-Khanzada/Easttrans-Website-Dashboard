@@ -93,8 +93,9 @@ include 'header.php';
           </div><!-- End Contact Form -->
 
         </div>
-
+          <?php include 'converter.php'?>
       </div>
+     
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->

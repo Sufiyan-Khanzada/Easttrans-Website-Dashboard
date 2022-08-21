@@ -95,6 +95,7 @@ include 'header.php';
         </div>
 
       </div>
+        <?php include 'converter.php'?>
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
