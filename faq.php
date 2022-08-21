@@ -47,12 +47,50 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
                     <i class="bi bi-question-circle question-icon"></i>
-                   Lorem Ipsum is simply dummy text of the printing ?
+                  What Services EasyTrans Provide?
                   </button>
                 </h3>
                 <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                   <div class="accordion-body">
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                  <u><b>EasyTrans Services</b></u>
+                  <br>
+                  <br>
+                  
+                  <b>• Money Transferring</b>
+                  <p> (In More Than 28 Countries)</p> 
+                   <br>
+                  <b>• Indonesia Visa Service</b>
+                  <p> (With 100% Approval and 100% Refund) </p> 
+                   <br>
+                  <b>• Pakistan Visa Service</b>
+                  <p> (With Cheap Price)</p> 
+                   <br>
+                  <b>• Cheap Flight Tickets</b>
+                  <p> (For All Around the World)</p> 
+                   <br>
+                  <b>5-Mobile Top up Balance</b>
+                  <p> (For Pakistan Indonesia and China)</p> 
+                   <br>
+                  <b>• Internet Date Packages</b>
+                  <p> (For Pakistan Indonesia and China)</p> 
+                   <br>
+                   <b>• Utilities Bills (Electric,Water, and Gas)</b>
+                  <p> (For Pakistan Indonesia and China)</p> 
+                   <br>
+                    <b>• Goods/Gifts Service</b>
+                  <p> (For Pakistan Indonesia and China)</p> 
+                   <br>
+                    <b>• Marriage Book Legalization Service</b>
+                  <p> (For Indonesia and Pakistan)</p> 
+                   <br>
+                   <b>• USD Payments for Visa and other Purposes</b>
+                   <br>
+                    <br> 
+                    <br>
+                   <h5>Thank You So Much for Your Trust and For Using EasyTrans</h5>
+
+                   <h6>EasyTrans Connecting Your Heart.</h6>
+                   <br>
                   </div>
                 </div>
               </div><!-- # Faq item-->
