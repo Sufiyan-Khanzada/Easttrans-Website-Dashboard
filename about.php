@@ -32,11 +32,11 @@ include 'header.php';
       <div class="container" data-aos="fade-up">
 
         <div class="row gy-4">
-          <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
+         <!--  <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
             <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
-          </div>
-          <div class="col-lg-6 content order-last  order-lg-first">
+          </div> -->
+          <div class="col-lg-12 content order-last  order-lg-first">
             <h3>About Us</h3>
             <p>
               EasyTrans Gift Service, brings you to the wonderful opportunity where you can
@@ -44,6 +44,33 @@ include 'header.php';
               you are or where they are.
 
             </p>
+
+
+            <p>
+              You can send gifts to Pakistan, Indonesia, and China like flowers, cakes,mithai,
+              chocolates, fruits, Dry Fruits, Sweets, Syrup (Sharbat).</p>
+              <p>You canalso send
+              Pakistan, Indonesian Traditional and Local Dress, Cloth, Shoes,Watch, Shawl,
+              Caps, Coat, or even send Home Necessaries, like MobilePhone, Laptop, TV,
+              Refrigerator, AC, & much more from all around theworld.</p>
+<p>
+              We simply have the
+              widest range of categories, so it Will be Easyfor you to find the right gift for the
+              right occasion. Just use EasyTrans giftservice and your personalized gift will be
+              delivered to your loved ones. 
+            </p>
+            <h5>
+            (EasyTrans Delivery Service is Door to Door )So,
+              what are you waiting for? 
+              <h5>
+                <br> 
+            
+            <h5>Get in touch now and start sending love to Pakistan,
+              Indonesia, and China.</h5>
+              <h6>
+                EasyTrans Connecting Your Heart
+
+              </h6>
             <!-- <ul>
               <li data-aos="fade-up" data-aos-delay="100">
                 <i class="bi bi-diagram-3"></i>
