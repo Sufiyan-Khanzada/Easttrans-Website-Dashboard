@@ -93,6 +93,6 @@ include 'header.php';
     </section><!-- End Get a Quote Section -->
 
   </main><!-- End #main -->
-<?phpinfo()
+<?php
 include 'footer.php'; 
 ?>
