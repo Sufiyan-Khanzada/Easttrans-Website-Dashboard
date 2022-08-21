@@ -10,7 +10,9 @@ include 'header.php';
           <div class="row d-flex justify-content-center">
             <div class="col-lg-6 text-center">
               <h2>About</h2>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+              <p>EasyTrans Gift Service, brings you to the wonderful opportunity where you can
+                send gifts to your loved ones in Pakistan, Indonesia, and China no matter where
+                you are or where they are.</p>
             </div>
           </div>
         </div>
@@ -18,7 +20,7 @@ include 'header.php';
       <nav>
         <div class="container">
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>About</li>
           </ol>
         </div>
@@ -42,7 +44,7 @@ include 'header.php';
               you are or where they are.
 
             </p>
-            <ul>
+            <!-- <ul>
               <li data-aos="fade-up" data-aos-delay="100">
                 <i class="bi bi-diagram-3"></i>
                 <div>
@@ -61,7 +63,7 @@ include 'header.php';
                   <h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
                 </div>
               </li>
-            </ul>
+            </ul> -->
           </div>
         </div>
 

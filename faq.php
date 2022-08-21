@@ -101,18 +101,32 @@
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
                     <i class="bi bi-question-circle question-icon"></i>
-                   Dolor sit amet consectetur adipiscing elit pellentesque ?
+                   You can also check it and prove it by your self. Here is the way?
                   </button>
                 </h3>
                 <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                   <div class="accordion-body">
                     <i class="bi bi-question-circle question-icon"></i>
-                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+                 <p> • You can try to transfer so small amount first by using EasyTrans, just inabout
+                    10 minutes the money Will reach to your receiver.</p>
+                    <br>
+                <p>  • You can also visit EasyTrans Facebook page for sure.</p>
+                    <br>
+
+              <p>  There are alot of reviews/recommendations from people who already use
+                EasyTrans service.  </p>
+                    <br>
+                    <br>
+                     <h5>Don't worry to use EasyTrans and prove it by your self EasyTrans is Trustable,
+                      Fast, Easy with Affordable charge
+                     </h5>
+                      <h6>EasyTrans Connecting your heart ❤
+</h6>
                   </div>
                 </div>
               </div><!-- # Faq item-->
 
-              <div class="accordion-item">
+              <!-- <div class="accordion-item">
                 <h3 class="accordion-header">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
                     <i class="bi bi-question-circle question-icon"></i>
@@ -124,7 +138,7 @@
                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
                   </div>
                 </div>
-              </div><!-- # Faq item-->
+              </div> --><!-- # Faq item-->
 
             </div>
 
