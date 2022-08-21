@@ -57,10 +57,17 @@
           <li><a href="about.php">About</a></li>
           <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
+            
+            <li><a href="#">Pakistan Visa Service</a></li>
+            <li><a href="#">Cheap Flight Tickets</a></li>
+            <li><a href="#">5-Mobile Top up Balance</a></li>
+            <li><a href="#">Internet Date Packages</a></li>
+            <li><a href="#">Utilities Bills (Electric,Water, and Gas)</a></li>
+            <li><a href="#">Goods/Gifts Service</a></li>
+            <li><a href="#">Marriage Book Legalization Service</a></li>
+            <li><a href="#">USD Payments for Visa and other Purposes</a></li>
+            <li><a href="#">Marriage Book Legalization Service</a></li>
+            
             </ul>
           </li>
          <li><a href="news_promotions.php">News & Promotions</a></li>

@@ -9,8 +9,8 @@ include 'header.php';
         <div class="container position-relative">
           <div class="row d-flex justify-content-center">
             <div class="col-lg-6 text-center">
-              <h2>Service Details</h2>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+              <h2>Pakistan Visa Service</h2>
+              <p>EasyTrans Connecting Your Heart.</p>
             </div>
           </div>
         </div>
@@ -19,55 +19,82 @@ include 'header.php';
         <div class="container">
           <ol>
             <li><a href="index.html">Home</a></li>
-            <li>Service Details</li>
+            <li>Pakistan Visa Service</li>
           </ol>
         </div>
       </nav>
     </div><!-- End Breadcrumbs -->
 
-    <!-- ======= Service Details Section ======= -->
-    <section id="service-details" class="service-details">
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
 
-        <div class="row gy-4">
-
+        <div class="col-lg-6 content order-last  order-lg-first">
+            <h3>Pakistan Visa Service</h3>
+                      </div>
+                     <p>
+                       Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+                     </p> 
+                   
+        <div class="row gy-4 mt-4">
+  <h4>Please Fill Form and Deposit Amount in Given Accounts</h4>
           <div class="col-lg-4">
-            <div class="services-list">
-              <a href="#" class="active">Storage</a>
-              <a href="#">Logistics</a>
-              <a href="#">Cargo</a>
-              <a href="#">Trucking</a>
-              <a href="#">Packaging</a>
-              <a href="#">Warehousing</a>
-            </div>
 
-            <h4>Enim qui eos rerum in delectus</h4>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+            <div class="info-item d-flex">
+              <i class="bi bi-cash flex-shrink-0"></i>
+              <div>
+                <h4>EasyPaisa:</h4>
+                <p>xxxxxxxxx</p>
+              </div>
+            </div><!-- End Info Item -->
+
+            <div class="info-item d-flex">
+              <i class="bi bi-phone flex-shrink-0"></i>
+              <div>
+                <h4>JazzCash:</h4>
+                <p>xxxxxxxxxx</p>
+              </div>
+            </div><!-- End Info Item -->
+
+            <div class="info-item d-flex">
+              <i class="bi bi-bank flex-shrink-0"></i>
+              <div>
+                <h4>Bank Account:</h4>
+                <p>xxxxxxxxxx</p>
+              </div>
+            </div><!-- End Info Item -->
+
           </div>
 
           <div class="col-lg-8">
-            <img src="assets/img/service-details.jpg" alt="" class="img-fluid services-img">
-            <h3>Temporibus et in vero dicta aut eius lidero plastis trand lined voluptas dolorem ut voluptas</h3>
-            <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
-            </p>
-            <ul>
-              <li><i class="bi bi-check-circle"></i> <span>Aut eum totam accusantium voluptatem.</span></li>
-              <li><i class="bi bi-check-circle"></i> <span>Assumenda et porro nisi nihil nesciunt voluptatibus.</span></li>
-              <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea</span></li>
-            </ul>
-            <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
-            </p>
-            <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
-            </p>
-          </div>
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col-md-6 form-group mt-3 mt-md-0">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
+          </div><!-- End Contact Form -->
 
         </div>
 
       </div>
-    </section><!-- End Service Details Section -->
+    </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
 
