@@ -9,8 +9,8 @@ include 'header.php';
         <div class="container position-relative">
           <div class="row d-flex justify-content-center">
             <div class="col-lg-6 text-center">
-              <h2>About</h2>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+              <h2>News & Promotions</h2>
+              <p>Easy Trans | EasyTrans Connecting Your Heart.</p>
             </div>
           </div>
         </div>
@@ -18,8 +18,8 @@ include 'header.php';
       <nav>
         <div class="container">
           <ol>
-            <li><a href="index.html">Home</a></li>
-            <li>About</li>
+            <li><a href="index.php">Home</a></li>
+            <li>News & Promotions</li>
           </ol>
         </div>
       </nav>
@@ -30,39 +30,23 @@ include 'header.php';
       <div class="container" data-aos="fade-up">
 
         <div class="row gy-4">
-          <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
+          <!-- <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
             <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
           </div>
-          <div class="col-lg-6 content order-last  order-lg-first">
-            <h3>About Us</h3>
-            <p>
-              EasyTrans Gift Service, brings you to the wonderful opportunity where you can
-              send gifts to your loved ones in Pakistan, Indonesia, and China no matter where
-              you are or where they are.
+           --><div class="col-lg-6 content order-last  order-lg-first">
+            <h3>News & Promotions</h3>
+                      </div>
+                     <p>
+                       Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+                     </p> 
+                     <p>
+                       Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+                     </p> 
+                     <p>
+                       Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+                     </p> 
 
-            </p>
-            <ul>
-              <li data-aos="fade-up" data-aos-delay="100">
-                <i class="bi bi-diagram-3"></i>
-                <div>
-                  <h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                </div>
-              </li>
-              <li data-aos="fade-up" data-aos-delay="200">
-                <i class="bi bi-fullscreen-exit"></i>
-                <div>
-                  <h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                </div>
-              </li>
-              <li data-aos="fade-up" data-aos-delay="300">
-                <i class="bi bi-broadcast"></i>
-                <div>
-                  <h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                </div>
-              </li>
-            </ul>
-          </div>
         </div>
 
       </div>
@@ -90,8 +74,8 @@ include 'header.php';
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Hours Of Support</p>
+              <span data-purecounter-start="0" data-purecounter-end="24" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Hours Support</p>
             </div>
           </div><!-- End Stats Item -->
 
@@ -110,12 +94,14 @@ include 'header.php';
     
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">
+
       <div class="container">
 
         <div class="slides-1 swiper" data-aos="fade-up">
           <div class="swiper-wrapper">
 
             <div class="swiper-slide">
+              
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
                 <h3>Saul Goodman</h3>
